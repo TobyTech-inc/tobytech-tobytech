@@ -1,0 +1,28 @@
+{
+  "name": "@tobytech/tobytech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Tobytech-dev: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@github.com/TobyTech-inc/tobytech-tobytech.git"
+  },
+  "keywords": [
+    "tobytech"
+  ],
+  "author": "Tobytech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobyTech-inc/tobytech-tobytech/issues"
+  },
+  "homepage": "https://github.com/TobyTech-inc/tobytech-tobytech#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
